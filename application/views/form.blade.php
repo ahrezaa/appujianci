@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.111.3">
-    <title>Starter Template · Bootstrap v5.3</title>
+    <title>Starter Template Â· Bootstrap v5.3</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/starter-template/">
 
@@ -39,7 +39,7 @@
         <form method="post" action="{{ site_url('welcome/tampil') }}">
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Nama</label>
-                <input type="text"  class="form-control" id="nama" name="nama" aria-describedby="nama" required>
+                <input type="text" class="form-control" id="nama" name="nama" aria-describedby="nama" required>
             </div>
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">NIM</label>
